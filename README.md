@@ -1,18 +1,17 @@
 <!-- Top banner -->
-
 <h1 align="center">Hey there, I'm Lakshana Shree 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF61C7&center=true&width=435&lines=Engineering+Pre-final+year.;Automating+%F0%9F%94%A5+with+Python.;Mastering frontend.; Having+fun+online!+%F0%9F%A7%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF61C7&center=true&width=500&lines=Engineering+Pre-final+year.;Automating+%F0%9F%94%A5+with+Python.;Mastering+Frontend.;Having+fun+online!+%F0%9F%A7%AA" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🧁 Current intern @ IIT Bombai - FOSSEE Osdag
-- 🔍 Exploring tech with curiosity 
-- 💻 Python scripting | Reacting with react | Frontend for fun  
+- 🧁 Current intern @ IIT Bombay - FOSSEE Osdag  
+- 🔍 Exploring tech with curiosity  
+- 💻 Python scripting | Reacting with React | Frontend for fun  
 - 🌊 Building creative stuff + clean automation  
 - 📫 lakshanalakshu2408@gmail.com  
 - 🎯 Motto: Break it, understand it, build it better.  
@@ -22,17 +21,17 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,vscode,github,bash,C,C++,mySQL,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,git,vscode,github,bash,cpp,mysql,postgres" />
 </p>
 
 ---
 
 ## 🎯 Current Projects
 
-- ✅ Osdag - Open Source Project
-- 🧪 Fake News Detection System
-- 🎮 Sign Language Translator 
-- 📺 Portfolio with react
+- ✅ Osdag – Open Source Structural Design Tool  
+- 🧪 Fake News Detection System  
+- 🎮 Sign Language Translator  
+- 📺 Portfolio built with React  
 
 ---
 
@@ -57,7 +56,6 @@
 
 ---
 
-
 ## 🐾 Let’s Connect!
 
 <p align="center">
@@ -70,3 +68,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+visiting!&fontAlign=50&fontColor=ffffff&fontSize=20" />
 </p>
+
