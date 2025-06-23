@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-contribution-streak-stats.herokuapp.com/?user=lakshanashreee&theme=radical&hide_border=true&stroke=FF61C7&ring=FF61C7&currStreakLabel=ffffff&fire=FF61C7" alt="Lakshana's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshanashreee&theme=radical&hide_border=true&stroke=FF61C7&ring=FF61C7&currStreakLabel=ffffff&fire=FF61C7" alt="GitHub Streak" />
 </p>
 
 
