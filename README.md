@@ -9,10 +9,10 @@
 
 ## 🌸 About Me
 
-- 🧁 Current intern @ IIT Bombay - FOSSEE Osdag  
-- 🔍 Exploring tech with curiosity  
+- 🔍 Current intern @ IIT Bombay - FOSSEE Osdag & NIC Chennai 
+- ⚙️
 - 💻 Python scripting | Reacting with React | Frontend for fun  
-- 🌊 Building creative stuff + clean automation  
+- 🌊 Exploring tech with curiosity  
 - 📫 lakshanalakshu2408@gmail.com  
 - 🎯 Motto: Break it, understand it, build it better.  
 
