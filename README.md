@@ -66,10 +66,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshanashreee&theme=radical&hide_border=true&stroke=FF61C7&ring=FF61C7&currStreakLabel=ffffff&fire=FF61C7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lakshanashreee&theme=radical&hide_border=true&stroke=FF61C7&ring=FF61C7&currStreakLabel=ffffff&fire=FF61C7" alt="GitHub Streak" />
 </p>
 
 
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+visiting!&fontAlign=50&fontColor=ffffff&fontSize=20" />
