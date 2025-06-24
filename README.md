@@ -56,7 +56,7 @@
 
 ---
 
-## 🐾 Let’s Connect!
+## 🐾 Let’s Connect!!
 
 <p align="center">
   <a href="https://github.com/lakshanashreee"><img src="https://img.shields.io/github/followers/lakshanashreee?label=Follow&style=social" /></a>
