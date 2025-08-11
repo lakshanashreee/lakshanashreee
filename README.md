@@ -9,8 +9,8 @@
 
 ## 🌸 About Me
 
-- 🔍 Current intern @ IIT Bombay - FOSSEE Osdag & NIC Chennai 
-- ⚙️
+- 🔍 Current intern @ NIC Chennai 
+- ⚙️Ex Intern @ IIT Bombay - FOSSEE/Osdag
 - 💻 Python scripting | Reacting with React | Frontend for fun  
 - 🌊 Exploring tech with curiosity  
 - 📫 lakshanalakshu2408@gmail.com  
